@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<winginx>
+  <project>
+    <name>site.html_mail</name>
+    <url>http://site.html_mail/</url>
+    <root>home/site.html_mail</root>
+  </project>
+</winginx>
