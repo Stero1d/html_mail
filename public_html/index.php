@@ -11,6 +11,6 @@ $twig = new Twig_Environment($loader, array(
 
 $info = array(
 	array('name_client' => 'Иван Иванович', 'name_manager' => 'Наталья Воронина','
-          post_ manager' => 'Менеджер по продажам', 'phone_manager' => '8-800-700-12-50','mail_manager' => 'voronina@intgroup.ru'));
+          post_ manager' => 'Менеджер по продажам', 'phone_manager' => '8-800-700-12-50','mail_manager' => 'voronina@initgroup.ru'));
 
 echo $twig->render('main.html', array('info' => $info));
